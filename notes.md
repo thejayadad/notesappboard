@@ -12,3 +12,9 @@
 # CREATE NOTE
 - npm i sonner
 - add the create btn
+- add the page for the redirect
+- setup the layout
+
+# SINGLE NOTE PAGE
+- add the params
+- be sure getting the id
