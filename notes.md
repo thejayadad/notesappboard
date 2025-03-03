@@ -10,4 +10,5 @@
 -- setup the api under notes
 
 # CREATE NOTE
-- npm i so
+- npm i sonner
+- add the create btn
